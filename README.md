@@ -43,7 +43,7 @@ iValidate/
 
 ## 🌐 Live Demo
 
-[(Add your GitHub Pages link here)](https://aryan-1218.github.io/Email-Validator-/)
+https://aryan-1218.github.io/Email-Validator-/
 
 ---
 
