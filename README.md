@@ -1,3 +1,50 @@
-# Email-Validator By Using HTML CSS And JavaScript
+# 📧 iValidate – Email Validator
 
-This project can be used to validate emails using the emailvalidation api
+iValidate is a simple web application that checks whether an email address is valid.
+
+It verifies:
+- Email format
+- Domain information
+- SMTP check
+- MX record availability
+- Deliverability status
+
+---
+
+## 🚀 Features
+
+- Validate any email address
+- Displays detailed validation results
+- Clean and simple user interface
+- Real-time API response handling
+
+---
+
+## 🛠 Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- Email Validation API
+
+---
+
+## 📂 Project Structure
+
+```
+iValidate/
+│
+├── index.html
+├── style.css
+└── script.js
+```
+
+---
+
+## 🌐 Live Demo
+
+(Add your GitHub Pages link here)
+
+---
+
+Made by Aryan Bhavsar
